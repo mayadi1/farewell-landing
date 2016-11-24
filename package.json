@@ -1,0 +1,31 @@
+{
+  "name": "farewell-landing",
+  "version": "0.0.0",
+  "description": "Landing page for FareWell",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertn702/farewell-landing.git"
+  },
+  "keywords": [
+    "farewell"
+  ],
+  "author": "Robert Niimi <robertn702@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertn702/farewell-landing/issues"
+  },
+  "homepage": "https://github.com/robertn702/farewell-landing#readme",
+  "dependencies": {
+    "eslint": "^3.10.2",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
