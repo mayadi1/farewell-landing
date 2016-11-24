@@ -12,10 +12,10 @@ export default class AppHeader extends Component {
     // React.PropTypes
   };
 
-  constructor(props) {
-    super(props);
-    // this.state = {  };
-  }
+  // constructor(props) {
+  //   super(props);
+  //   // this.state = {  };
+  // }
 
   render() {
     return (

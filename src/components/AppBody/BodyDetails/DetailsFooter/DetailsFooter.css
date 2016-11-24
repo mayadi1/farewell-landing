@@ -1,0 +1,10 @@
+.DetailsFooter {
+
+}
+.DetailsFooter .store-btn {
+  margin-left: 10px;
+}
+
+.DetailsFooter .store-btn:first-child {
+  margin-left: 0px;
+}

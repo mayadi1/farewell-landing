@@ -1,0 +1,14 @@
+.DetailsHeader {
+  display: flex;
+  align-items: center;
+}
+
+.DetailsHeader img {
+  height: 45px;
+  width: 45px;
+  border-radius: 5px;
+}
+
+.DetailsHeader h2 {
+  margin-left: 10px;
+}
