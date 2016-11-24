@@ -2,6 +2,7 @@
   "name": "farewell-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://robertn702.github.io/farewell-landing",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
@@ -55,7 +56,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "node scripts/test.js --env=jsdom",
+    "publish": "npm run build && git subtree push --prefix build origin gh-pages"
   },
   "jest": {
     "moduleFileExtensions": [
