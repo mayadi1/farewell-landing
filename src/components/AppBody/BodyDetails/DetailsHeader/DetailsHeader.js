@@ -10,15 +10,6 @@ import logo from './Icon-75.jpg';
 
 export default class DetailsHeader extends Component {
   static displayName = 'DetailsHeader';
-  static propTypes = {
-    // React.PropTypes
-  };
-
-  // constructor(props) {
-  //   super(props);
-  //   // this.state = {  };
-  // }
-
   render() {
     return (
       <div className='DetailsHeader'>

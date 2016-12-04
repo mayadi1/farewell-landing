@@ -12,15 +12,6 @@ import DetailsFooter from './DetailsFooter/DetailsFooter.js';
 
 export default class BodyDetails extends Component {
   static displayName = 'BodyDetails';
-  static propTypes = {
-    // React.PropTypes
-  };
-
-  // constructor(props) {
-  //   super(props);
-  //   // this.state = {  };
-  // }
-
   render() {
     return (
       <div className='BodyDetails'>

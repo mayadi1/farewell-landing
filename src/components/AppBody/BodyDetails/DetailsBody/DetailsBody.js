@@ -9,15 +9,6 @@ import './DetailsBody.css';
 
 export default class DetailsBody extends Component {
   static displayName = 'DetailsBody';
-  static propTypes = {
-    // React.PropTypes
-  };
-
-  // constructor(props) {
-  //   super(props);
-  //   // this.state = {  };
-  // }
-
   render() {
     return (
       <div className='DetailsBody'>

@@ -11,15 +11,6 @@ import BodyDisplay from './BodyDisplay/BodyDisplay.js';
 
 export default class AppBody extends Component {
   static displayName = 'AppBody';
-  static propTypes = {
-    // React.PropTypes
-  };
-
-  // constructor(props) {
-  //   super(props);
-  //   // this.state = {  };
-  // }
-
   render() {
     return (
       <div className='AppBody'>

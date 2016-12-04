@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
 import './BodyDisplay.css';
+// import IPhoneImage from './IPhoneImage/IPhoneImage.js';
+import iphoneStockImg from './iphone-stock.png';
+// import screenshot from './screenshot.png';
 
 /**
  * DESCRIPTION
@@ -9,18 +12,21 @@ import './BodyDisplay.css';
 
 export default class BodyDisplay extends Component {
   static displayName = 'BodyDisplay';
-  static propTypes = {
-    // React.PropTypes
-  };
-
-  // constructor(props) {
-  //   super(props);
-  //   // this.state = {  };
-  // }
-
   render() {
     return (
-      <div className='BodyDisplay'></div>
+      <div className='BodyDisplay'>
+        <img
+          alt={'iPhone stock'}
+          className={'IPhoneImage'}
+          src={iphoneStockImg}
+        />
+        {/*<img
+          alt={'iPhone screen'}
+          className={'IPhoneScreen'}
+          src={screenshot}
+        />*/}
+
+      </div>
     );
   }
 }
