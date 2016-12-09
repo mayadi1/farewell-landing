@@ -1,11 +1,11 @@
 {
-  "main.css": "static/css/main.7006c23e.css",
-  "main.css.map": "static/css/main.7006c23e.css.map",
-  "main.js": "static/js/main.11a884df.js",
-  "main.js.map": "static/js/main.11a884df.js.map",
-  "static/media/Icon-75.jpg": "static/media/Icon-75.68c18f06.jpg",
-  "static/media/apple_24px.svg": "static/media/apple_24px.10329ec6.svg",
-  "static/media/background.jpg": "static/media/background.0580f543.jpg",
-  "static/media/google_play_24px.svg": "static/media/google_play_24px.6c5c6f60.svg",
-  "static/media/iphone-stock.png": "static/media/iphone-stock.b0434d82.png"
+  "Icon-75.jpg": "8952b522aa323b76a6d67c3900d212c7.jpg",
+  "apple_24px.svg": "fa9fb11c3eb74ad6933557dc09f7ba49.svg",
+  "background.jpg": "f70d30a9fa37c8a5c1a58cf856235d84.jpg",
+  "google_play_24px.svg": "d198ddf778a15e3aae82c2d28c266689.svg",
+  "iphone-stock.png": "022409a3d407f70a7ee52475ac7d8940.png",
+  "main.css": "static/css/main.0a48a4e8.css",
+  "main.css.map": "static/css/main.0a48a4e8.css.map",
+  "main.js": "static/js/main.bc43a32b.js",
+  "main.js.map": "static/js/main.bc43a32b.js.map"
 }
