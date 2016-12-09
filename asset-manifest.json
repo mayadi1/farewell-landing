@@ -1,7 +1,11 @@
 {
-  "main.css": "static/css/main.353c9e72.css",
-  "main.css.map": "static/css/main.353c9e72.css.map",
-  "main.js": "static/js/main.c0d21876.js",
-  "main.js.map": "static/js/main.c0d21876.js.map",
-  "static/media/Icon-75.jpg": "static/media/Icon-75.68c18f06.jpg"
+  "main.css": "static/css/main.20ff1713.css",
+  "main.css.map": "static/css/main.20ff1713.css.map",
+  "main.js": "static/js/main.ce5e66f1.js",
+  "main.js.map": "static/js/main.ce5e66f1.js.map",
+  "static/media/Icon-75.jpg": "static/media/Icon-75.68c18f06.jpg",
+  "static/media/apple_24px.svg": "static/media/apple_24px.10329ec6.svg",
+  "static/media/background.jpg": "static/media/background.0580f543.jpg",
+  "static/media/google_play_24px.svg": "static/media/google_play_24px.6c5c6f60.svg",
+  "static/media/iphone-stock.png": "static/media/iphone-stock.b0434d82.png"
 }
