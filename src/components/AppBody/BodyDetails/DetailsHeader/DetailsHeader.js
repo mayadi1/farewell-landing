@@ -14,7 +14,7 @@ export default class DetailsHeader extends Component {
     return (
       <div className='DetailsHeader'>
         <img src={logo} alt={'FareWell App Icon'} />
-        <h2>{'FareWell'}</h2>
+        <h1>{'FareWell'}</h1>
       </div>
     );
   }

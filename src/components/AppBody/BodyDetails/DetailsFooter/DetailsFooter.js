@@ -40,15 +40,17 @@ export default class DetailsFooter extends Component {
           {...buttonStyles}
           className={'store-btn'}
           href={APP_STORE_URL}
-          label={'App Store'}
           icon={<img src={AppleSvg} alt={'Apple Icon'} />}
+          label={'App Store'}
+          rel={'external'}
         />
         <RaisedButton
           {...buttonStyles}
           className={'store-btn'}
           href={GOOGLE_PLAY_URL}
-          label={'Google Play'}
           icon={<img src={GooglePlaySvg} alt={'Google Play Icon'} />}
+          label={'Google Play'}
+          rel={'external'}
         />
       </div>
     );
