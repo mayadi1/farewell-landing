@@ -16,16 +16,10 @@ export default class BodyDisplay extends Component {
     return (
       <div className='BodyDisplay'>
         <img
-          alt={'iPhone stock'}
+          alt={'Phone with FareWell App comparing Uber and Lyft prices'}
           className={'IPhoneImage'}
           src={iphoneStockImg}
         />
-        {/*<img
-          alt={'iPhone screen'}
-          className={'IPhoneScreen'}
-          src={screenshot}
-        />*/}
-
       </div>
     );
   }

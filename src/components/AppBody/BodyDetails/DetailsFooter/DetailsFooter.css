@@ -1,11 +1,12 @@
 .DetailsFooter {
-
-}
-.DetailsFooter .store-btn {
-  margin-left: 10px;
-}
-
-.DetailsFooter .store-btn:first-child {
   margin-top: 20px;
-  margin-left: 0px;
+}
+
+.DetailsFooter .store-btn {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.DetailsFooter .store-btn:last-child {
+  margin-right: 0px;
 }

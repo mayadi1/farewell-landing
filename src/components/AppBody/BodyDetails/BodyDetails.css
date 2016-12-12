@@ -1,6 +1,14 @@
 .BodyDetails {
   background-color: rgba(255, 255, 255, .7);
   padding: 20px 30px;
-  border-radius: 20px;
+  border-radius: 10px;
   max-width: 33%;
 }
+
+@media (max-width: 600px) {
+  .BodyDetails {
+    margin-top: 20px;
+    max-width: 80%;
+  }
+}
+
