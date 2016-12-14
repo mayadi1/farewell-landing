@@ -1,7 +1,8 @@
 .DetailsHeader {
-  display: flex;
   align-items: center;
   color: #222;
+  display: flex;
+  margin: 0 0 20px;
 }
 
 .DetailsHeader img {

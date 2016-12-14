@@ -12,7 +12,7 @@ export default class DetailsBody extends Component {
   render() {
     return (
       <div className='DetailsBody'>
-        <p>{`FareWell saves you time from switching between Uber and Lyft to find the cheapest ride by comparing fares between Uber and Lyft's product lines. FareWell averages costs and automatically factors Uber Surge and Lyft Prime Time surcharges so you never have to.`}</p>
+        <p>{`The FareWell app for iOS and Android saves you time switching between Uber and Lyft rides by comparing fares between product lines. FareWell averages costs and automatically factors Uber Surge and Lyft Prime Time surcharges so you never have to.`}</p>
       </div>
     );
   }
