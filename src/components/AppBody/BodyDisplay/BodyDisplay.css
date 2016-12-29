@@ -1,18 +1,9 @@
 .BodyDisplay {
-  height: 85%;
-  /*margin-left: 50px;*/
+  height: 80%;
+  margin: 20px 50px;
   position: relative;
 }
 
 .BodyDisplay img.IPhoneImage {
   height: 100%;
-  /*position: relative;*/
-}
-
-.BodyDisplay img.IPhoneScreen {
-  left: 0px;
-  top: 0px;
-  position: absolute;
-  height: 100%;
-  width: 100%;
 }
